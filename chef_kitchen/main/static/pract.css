@@ -1,0 +1,325 @@
+.navbar
+{
+    padding-left: 130px;
+    padding-right: 100px;
+}
+.drop
+{
+    margin-top: 30px;
+    margin-left: 205px;
+    display: flex;
+}
+.nav_but
+{
+   display: none
+}
+.nav-list
+{
+    display: flex;
+    position: relative;
+}
+
+.image_main
+{
+    padding: 1em;
+    margin-right: 30px;
+}
+.nav-list a
+{
+    display: block;
+    padding: 2em;
+}
+
+.menu
+{
+    text-decoration: underline;
+    color: #8EC038;
+    margin-right: 20px;
+}
+.menu1
+{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+.nomer 
+{
+    color: #302929;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    display: block;
+    padding: 2em;
+    gap: 2px;
+    margin-left: 50px;
+}
+.en
+{
+    margin-top: 38px;
+    margin-left: 20px;
+    color: #302929;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+.en_svg
+{
+    background-position-x: -10px;
+}
+
+.sign_in
+{
+    margin-top: 30px;
+    margin-left: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 35px;
+    padding: 18px 27px 18px 2px;
+    border-radius: 32px;
+    gap: 17px;
+    background: #FFA800;
+    flex-shrink: 0;
+    stroke-width: 2px;
+    stroke: #FFF;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    text-transform: uppercase;
+    border-style: solid;
+    border-color: #FFA800;
+    cursor: pointer;
+}
+
+.blok
+{
+    padding: 43px;
+    margin-top: 60px;
+    margin-bottom: 33px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 151px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #8EC038;
+    position: relative;
+}
+
+.iamge1
+{ 
+    position: absolute;
+    left: -93px;
+    bottom: -126px;
+}
+
+.image2
+{
+    position: absolute;
+    right: -53px;
+    top: -53px;
+    
+}
+.terms
+{
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; 
+    text-transform: uppercase;
+}
+.state
+{
+    padding-left: 130px;
+    padding-right: 100px;
+    position: relative;
+    left: 220px;
+}
+
+.h1
+{
+    color: #8EC038;
+    text-align: justify;
+    font-feature-settings: 'liga' off;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; 
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.h
+{
+    margin-top: 24px;
+}
+
+.p1
+{
+    margin-bottom: 15px;
+}
+
+.p9
+{
+    margin-bottom: 27px;
+}
+.down_blok
+{
+    padding-top: 60px;
+    height: 288px;
+    flex-shrink: 0;
+    display: flex;
+    background:#8EC038;
+    position: relative;
+}
+.icons
+{
+    display: block;
+    position: absolute;
+    left: 350px;
+}
+.icon1
+{
+    margin-bottom: 26px;
+}
+.mes_icon
+{
+    margin-bottom: 53px;
+}
+.mes_icon img
+{
+    margin-right: 15px;
+}
+.chef-kit
+{
+    color: #ffffff8a;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 150%; 
+}
+.downm 
+{
+    display: block;
+    position: absolute;
+    left: 650px;
+}
+.downm p
+{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    margin-bottom: 15px;
+}
+.text3
+{
+    display: block;
+    position: absolute;
+    left: 750px;
+    bottom: 160px;
+}
+.text3 p
+{
+    color: #ffffff8a;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 150%; 
+}
+.downinf
+{
+    display: block;
+    position: absolute;
+    right: 640px;
+    bottom: 83px;
+}
+.downinf p 
+{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+}
+.downinf img
+{
+    margin-right: 6px;
+}
+
+.indinf
+{
+    margin-top: 30px;
+}
+.indinf ul
+{
+    color: #ffffffd6;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.down_img
+{
+    position: absolute;
+    right: 400px;
+    bottom: 24px;
+}
+.down_img1
+{
+    position: absolute;
+    right: 400px;
+    bottom: 24px;
+}
+
+
+@media (max-width: 1000px) 
+{
+    .nav-list
+    {
+        display: none;
+    }
+    .nav_but
+    {
+        display: block;
+        margin-top: 35px;
+        width: 24px;
+        height: 24px;
+        border: none;
+        background-image: url('circum_menu-fries.png');
+        background-size: cover;
+        padding: 1em;
+        cursor: pointer;
+        background-color: #FFF;
+        border-color: #FFF;
+    }
+    .drop:hover .image_main
+    {
+        display: none;
+    }
+    .drop:hover .nav_but
+    {
+        display: none;
+    }
+    .drop:hover .nav-list
+    {
+        display: flex;
+        position: relative;
+        background-color: white;
+    }
+}
